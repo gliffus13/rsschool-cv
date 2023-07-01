@@ -24,7 +24,8 @@ return a * b
 }​
 ```
 ## *Experience:*
----
+[cv](https://gliffus13.github.io/rsschool-cv/cv)
+
 
 
 ## *Education:*
